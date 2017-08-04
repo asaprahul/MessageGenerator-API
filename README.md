@@ -19,7 +19,14 @@ form: {
     }
 ```
 
-**_This triggers the API to generate a text message with the given details and send the text message to the phone number provided in the body of the form object._**
+
+
+
+This triggers the API to **generate a text message** with the given details and **send it to the phone number** provided in the body of the form object.
+
+
+
+
 
 
 #### Guests: 
