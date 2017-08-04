@@ -1,6 +1,6 @@
 # MessageGenerator API
 
-API to generate welcome messages for your hotel guests.
+API to generate welcome text-messages for your hotel guests.
 
 API implementation of the [Message Generator Project](https://github.com/MessageGenerator)
 
@@ -19,7 +19,7 @@ form: {
     }
 ```
 
-This triggers the API to generate a text message with the given details and send the text message to the phone number provided in the body of the form object.
+**_This triggers the API to generate a text message with the given details and send the text message to the phone number provided in the body of the form object._**
 
 
 #### Guests: 
