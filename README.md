@@ -12,10 +12,10 @@ The body of the request should contain this object:
 
 ``` 
 form: {
-      'guest': 3,       //1, 2, 3, 4, 5, or 6
-      'hotel': 2,       //1, 2, 3, 4, or 5
-      'template' : 2,   //1, 2 or 3
-      'phone' : '+15038038316'  //Your phone number
+      'guest': 3,                //1, 2, 3, 4, 5, or 6
+      'hotel': 2,                //1, 2, 3, 4, or 5
+      'template' : 2,            //1, 2 or 3
+      'phone' : '+15038038316'   //Your phone number
     }
 ```
 
