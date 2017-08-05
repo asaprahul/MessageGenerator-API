@@ -19,15 +19,18 @@ form: {
     }
 ```
 
+```
+Response body: "Good afternoon Bridgett, I'm Sandy, Manager for The Grand Budapest Hotel. 
+We are delighted to have you as our guest. You will be staying in room number 127"
+```
 
+This triggers the API to do three things: 
 
++ **Generate a text message** with the given details. (Example : Good afternoon Bridgett, I'm Sandy, Manager for The Grand Budapest Hotel. We are delighted to have you as our guest. You will be staying in room number 127.)
 
-This triggers the API to **generate a text message** with the given details and **send it to the phone number** provided in the body of the form object.
++ **Send the generated text message** to the phone number provided in the body of the form object.
 
-
-
-
-
++ Send the generated **message as a response to the HTTP request**.
 
 #### Guests: 
  
