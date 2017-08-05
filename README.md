@@ -2,7 +2,7 @@
 
 API to generate welcome text-messages for your hotel guests.
 
-API implementation of the [Message Generator Project](https://github.com/MessageGenerator)
+API implementation of the [Message Generator Project](https://github.com/rahulsonwalkar/MessageGenerator)
 
 ## How it works: 
 
@@ -89,7 +89,7 @@ request(options, function (error, response, body) {
 })
 
 ```
-Note: 
+**Note**: 
 If you are using the sample node.js code to send POST requests, install this dependency first: 
 `npm install request`
     
