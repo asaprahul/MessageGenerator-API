@@ -26,7 +26,7 @@ We are delighted to have you as our guest. You will be staying in room number 12
 
 This triggers the API to do three things: 
 
-+ **Generate a text message** with the given details. (Example : Good afternoon Bridgett, I'm Sandy, Manager for The Grand Budapest Hotel. We are delighted to have you as our guest. You will be staying in room number 127.)
++ **Generate a text message** using details in the POST request. (Example : Good afternoon Bridgett, I'm Sandy, Manager for The Grand Budapest Hotel. We are delighted to have you as our guest. You will be staying in room number 127.)
 
 + **Send the generated text message** to the phone number provided in the body of the form object.
 
